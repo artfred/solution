@@ -1,0 +1,28 @@
+import random as random:
+
+f_g for first group
+s_g for second group
+t_g for third group
+board_row as sum of f_g, s_g, and t_g
+
+x_win to know if the x wins
+o_win to know if the o wins
+
+for i in range(10) as this will dictate the game will be running:
+		if the the board_row sum is not yet reach to 9:
+			will picked a  number and picked a letter from list of x and o based on the
+			picked number
+		if the first group is already filled, the adding to first group will be false:
+			
+		if the second group is already filled, the adding to second group will be false:
+
+		if the third group is already filled, the adding to third group will be false:
+
+		detect if the x win in a first group and add increment the x win variable
+		detect if the x win in a first group and add increment the x win variable
+
+		will detect how many x wins 
+		and detect how many o wins
+	
+		and display the result in each game.
+

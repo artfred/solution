@@ -1,0 +1,37 @@
+i just import the random
+	i added a first group i call it f_g
+	i added again a second group i call it s_g
+	i added again a third group i call it t_g
+
+	and i get the sum if the groups i created and i call it board_sum
+
+	and i created a paragraph called "x_win" and i assigned a value of empty  value
+	and i created a paragraph called "o_win" and i assigned a value of empty  value
+
+	and i created a paragraph called "x_win_list" to hold how many times the x win
+	and i assigned a value of zero
+
+	and i created a paragraph called "o_win_list" to hold how many times the x win
+	and i assigned a value of zero
+
+	and i created a function to run the game for 10 times
+	and im watching for the board length if its already 9 marks, it means the game is over
+		if its not yet equal to 9
+			it keep on picking a letters from my letters collection, i created a list
+				of characters its a total of 300 words, and it only consist of "x" and "o"
+
+		the way i picked a letter from list of letters is by ramdom, 
+
+		and i made a codition that if i picked a number greater than 100 , the letter should be
+		added to the f_g(first group)
+
+
+		and i made a codition that if i picked a number greater than 200 , the letter should be
+		added to the s_g(second group)
+
+		if the picked number is not greater than 200 and less than 100 , the letter will be added
+			to the third group
+
+
+
+
