@@ -145,3 +145,5 @@ print("O wins "+str(o_win_list)+" out of 10")
 val = input("Enter any keys and press enter to exit: ") 
 
 print('test')
+
+print('test')
